@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). A homepage repository for the Firefox development profile used for the development of the Android x32, Android x64, Android x128, and Candroid open source projects. [Data set]. https://doi.org/10.0000/00000
