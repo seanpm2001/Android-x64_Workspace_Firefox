@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this project (Firefox profile workspace for the Android x64 project) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Seanpm2001 Android x64 Firefox development workspace profile source repository"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-12-11
+# Date the repository was created
+url: "https://github.com/seanpm2001/Android-x64_Workspace_Firefox/"
+cff-version: 1.2.0
+message: "If you use this project (Firefox profile workspace for the Android x64 project) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: ""
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2022-12-15
+url: "https://github.com/seanpm2001/Android-x64_Workspace_Firefox/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Seanpm2001 Android x64 Firefox development workspace profile source repository"
+  month: 12
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "A homepage repository for the Firefox development profile used for the development of the Android x32, Android x64, Android x128, and Candroid open source projects."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Thursday, December 15th at 1:48 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
