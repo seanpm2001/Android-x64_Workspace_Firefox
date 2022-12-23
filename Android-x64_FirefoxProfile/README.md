@@ -61,17 +61,29 @@ The following files and paths are not yet available for upload:
 
 ***
 
-## Known backup dates
+## Backups
+
+### Known backup dates
 
 I have made private backups of the profile on the following dates:
 
-1. `2022, Wednesday, December 14th (66.5 MB)` - Firefox 107.1
-2. **No other recorded backups at this time**
+1. [`2022, Wednesday, December 14th (66.5 MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.12.14/) - Firefox 107.0.1
+2. [`2022, Sunday, December 18th (62.9 MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.12.18/) - Firefox 107.0.1
+3. **No other recorded backups at this time**
+
+**End of list**
+
+### Planned backup dates
+
+I have plans to do backups of the profile on the following future dates:
+
+1. [`2022, Sunday, December 25th (???.?? MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.12.25/) - Firefox 108.0.1
+2. **No other planned backups at this time**
 
 **End of list**
 
 ***
 
-**File version:** `1 (2022, Wednesday, December 14th at 1:47 pm PST)`
+**File version:** `2 (2022, Thursday, December 22nd at 6:15 pm PST)`
 
 ***
