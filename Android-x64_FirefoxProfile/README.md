@@ -175,6 +175,86 @@ This change will significantly add to the volume of the daily backups. I am now 
 
 </details> <!-- Section !-->
 
+***
+
+## Bookmark backups
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Bookmark backups have been almost daily since 2022 December 2nd. Here is a listing of all bookmark backups
+
+### HTML
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+(`2022 December 30th:`) The HTML bookmarks are coming close to the 25 MiB GitHub size limit. Once it becomes too large, I will continue to export, but not upload. THe JSON variant is less than 1/30th of the size of the HTML variant.
+
+- [`Android-x64_FFProfile_Bookmarks_2022.12.02.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.02.html) - 2022 December 2nd
+- No data for 2022, December 3rd
+- [`Android-x64_FFProfile_Bookmarks_2022.12.04.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.04.html) - 2022 December 4th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.05.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.05.html) - 2022 December 5th
+- No data for 2022, December 6th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.07.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.07.html) - 2022 December 7th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.08.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.08.html) - 2022 December 8th
+- No data for 2022, December 9th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.10.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.10.html) - 2022 December 10th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.11.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.11.html) - 2022 December 11th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.12.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.12.html) - 2022 December 12th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.13.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.13.html) - 2022 December 13th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.14.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.14.html) - 2022 December 14th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.15.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.15.html) - 2022 December 15th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.16.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.16.html) - 2022 December 16th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.17.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.17.html) - 2022 December 17th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.18.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.18.html) - 2022 December 18th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.19.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.19.html) - 2022 December 19th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.20.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.20.html) - 2022 December 20th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.21.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.21.html) - 2022 December 21st
+- [`Android-x64_FFProfile_Bookmarks_2022.12.22.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.22.html) - 2022 December 22nd
+- [`Android-x64_FFProfile_Bookmarks_2022.12.23.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.23.html) - 2022 December 23rd
+- [`Android-x64_FFProfile_Bookmarks_2022.12.24.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.24.html) - 2022 December 24th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.25.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.25.html) - 2022 December 25th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.26.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.26.html) - 2022 December 26th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.27.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.27.html) - 2022 December 27th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.28.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.28.html) - 2022 December 28th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.29.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.29.html) - 2022 December 29th
+
+</details> <!-- Subsection !-->
+
+### JSON
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+- [`FFProfile_Androidx64_bookmarks-2022-12-04.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-04.json) - 2022, December 4th
+- [`FFProfile_Androidx64_bookmarks-2022-12-05.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-05.json) - 2022, December 5th
+- No data for 2022, December 6th
+- [`FFProfile_Androidx64_bookmarks-2022-12-07.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-07.json) - 2022, December 7th
+- [`FFProfile_Androidx64_bookmarks-2022-12-08.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-08.json) - 2022, December 8th
+- No data for 2022, December 9th
+- [`FFProfile_Androidx64_bookmarks-2022-12-10.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-10.json) - 2022, December 10th
+- [`FFProfile_Androidx64_bookmarks-2022-12-11.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-11.json) - 2022, December 11th
+- [`FFProfile_Androidx64_bookmarks-2022-12-12.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-12.json) - 2022, December 12th
+- [`FFProfile_Androidx64_bookmarks-2022-12-13.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-13.json) - 2022, December 13th
+- [`FFProfile_Androidx64_bookmarks-2022-12-14.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-14.json) - 2022, December 14th
+- [`FFProfile_Androidx64_bookmarks-2022-12-15.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-15.json) - 2022, December 15th
+- [`FFProfile_Androidx64_bookmarks-2022-12-16.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-16.json) - 2022, December 16th
+- [`FFProfile_Androidx64_bookmarks-2022-12-17.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-17.json) - 2022, December 17th
+- [`FFProfile_Androidx64_bookmarks-2022-12-18.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-18.json) - 2022, December 18th
+- [`FFProfile_Androidx64_bookmarks-2022-12-19.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-19.json) - 2022, December 19th
+- [`FFProfile_Androidx64_bookmarks-2022-12-20.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-20.json) - 2022, December 20th
+- [`FFProfile_Androidx64_bookmarks-2022-12-21.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-21.json) - 2022, December 21st
+- [`FFProfile_Androidx64_bookmarks-2022-12-22.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-22.json) - 2022, December 22nd
+- [`FFProfile_Androidx64_bookmarks-2022-12-23.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-23.json) - 2022, December 23rd
+- [`FFProfile_Androidx64_bookmarks-2022-12-24.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-24.json) - 2022, December 24th
+- [`FFProfile_Androidx64_bookmarks-2022-12-25.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-25.json) - 2022, December 25th
+- [`FFProfile_Androidx64_bookmarks-2022-12-26.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-26.json) - 2022, December 26th
+- [`FFProfile_Androidx64_bookmarks-2022-12-27.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-27.json) - 2022, December 27th
+- [`FFProfile_Androidx64_bookmarks-2022-12-28.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-28.json) - 2022, December 28th
+- [`FFProfile_Androidx64_bookmarks-2022-12-29.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-29.json) - 2022, December 29th
+
+</details> <!-- Subsection !-->
+
+</details> <!-- Section !-->
+
 </details> <!-- Article !-->
 
 ***
@@ -185,9 +265,9 @@ This change will significantly add to the volume of the daily backups. I am now 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Friday, December 23rd at 6:21 pm PST)`
+**File version:** `4 (2022, Friday, December 30th at 6:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `280`
+**Line count (including blank lines and compiler line):** `379`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -271,6 +351,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Added an entry for version 2
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Friday, December 30th at 6:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added the `Bookmarks` section
+- - [x] Added the `HTML` subsection
+- - [x] Added the `JSON` subsection
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
