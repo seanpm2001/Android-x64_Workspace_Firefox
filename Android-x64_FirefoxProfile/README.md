@@ -81,7 +81,9 @@ I have made private backups of the profile on the following dates:
 
 1. [`2022, Wednesday, December 14th (66.5 MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.12.14/) - Firefox 107.0.1
 2. [`2022, Sunday, December 18th (62.9 MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.12.18/) - Firefox 107.0.1
-3. **No other recorded backups at this time**
+3. [`2022, Sunday, December 25th (69.4 MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.12.25/) - Firefox 108.0.1
+4. [`2023, Sunday, January 1st (70.0 MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2023.01.01/) - Firefox 108.0.1
+5. **No other recorded backups at this time**
 
 **End of list**
 
@@ -93,7 +95,7 @@ I have made private backups of the profile on the following dates:
 
 I have plans to do backups of the profile on the following future dates:
 
-1. [`2022, Sunday, December 25th (???.?? MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.12.25/) - Firefox 108.0.1
+1. [`20223 Sunday, January 8th (???.?? MB)`](/Android-x64_FirefoxProfile/rvbkk2lj.Android-x64_Main-dev/2022.01.08/) - Firefox ???
 2. **No other planned backups at this time**
 
 **End of list**
@@ -123,16 +125,32 @@ I have made 1 partial tour video as of 2022, Friday, December 23rd. They include
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this sub-section</b></p></summary>
 
-I have made 2 full tour videos, as of 2022, Friday, December 23rd. They include:
+I have made 8 full tour videos, as of 2023, Friday, January 6th. They include:
 
-1. [`2022, Tuesday, December 13th`](/Android-x64_Workspace_Firefox_Main-dev/Android-x64_FirefoxProfile/Video/Tour/2022/12_December/13)
+1. [`2022, Tuesday, December 13th`](/Android-x64_Workspace_Firefox_Main-dev/Android-x64_FirefoxProfile/Video/Tour/2022/12_December/13/)
 
 **Split into 2 parts:**
 
 - 1. [`Bookmarks menu tour`](/Android-x64_FirefoxProfile/Video/Tour/2022/12_December/13/BookmarksMenu_FullTour/)
 - 2. [`GUI tour`](/Android-x64_FirefoxProfile/Video/Tour/2022/12_December/13/GUI_FullTour/)
 
-2. **No other recorded full tour videos at this time**
+2. [`2022, Sunday, December 25th`](/Android-x64_Workspace_Firefox_Main-dev/Android-x64_FirefoxProfile/Video/Tour/2022/12_December/25/)
+
+**Split into 2 parts:**
+
+- 1. [`Bookmarks menu tour`](/Android-x64_FirefoxProfile/Video/Tour/2022/12_December/25/BookmarksMenu_FullTour/)
+- 2. [`GUI tour`](/Android-x64_FirefoxProfile/Video/Tour/2022/12_December/25/GUI_FullTour/)
+
+3. [`2023, Sunday, January 1st`](/Android-x64_Workspace_Firefox_Main-dev/Android-x64_FirefoxProfile/Video/Tour/2023/01_January/01/)
+
+**Split into 4 parts:**
+
+- 1. [`Bookmarks menu tour`](/Android-x64_FirefoxProfile/Video/Tour/2023/01_January/01/BookmarksMenu_FullTour/)
+- 2. [`GUI tour (part 1)`](/Android-x64_FirefoxProfile/Video/Tour/2023/01_January/01/GUI_FullTour/WebM/Part-1/)
+- 3. [`GUI tour (part 2)`](/Android-x64_FirefoxProfile/Video/Tour/2023/01_January/01/GUI_FullTour/WebM/Part-2/)
+- 4. [`GUI tour (part 3)`](/Android-x64_FirefoxProfile/Video/Tour/2023/01_January/01/GUI_FullTour/WebM/Part-3/)
+
+4. **No other recorded full tour videos at this time**
 
 </details>
 
@@ -144,9 +162,9 @@ I plan to make a tour video the same day as each profile backup. The next one is
 
 The followig tour videos are planned:
 
-1. [`Full tour 2022, December 25th`](#Full-tours)
+1. [`Full tour 2023, January 8th`](#Full-tours)
 
-**Which will be split into 2 parts:**
+**Which will be split into 2 or more parts:**
 
 - 1. [`Bookmarks menu tour`](#Full-Tours)
 - 2. [`GUI tour`](#Full-Tours)
@@ -170,6 +188,10 @@ The followig tour videos are planned:
 On 2022, December 23rd, Firefox failed to load the pinned tabs of the profile, and I had to rebuild it in a new way. From now on, I will be making a backup of all tabs of each profile on a daily basis. I never realized how easy it was to double bookmark (select all tabs, bookmark, choose location, save)
 
 This change will significantly add to the volume of the daily backups. I am now protected from this happening again.
+
+### 2023 January 5th profile wipe
+
+A different Firefox profile had its tabs wiped on 2023, Thursday, January 5th, and I got to make the first use of my new `ProfileRestore` system.
 
 </details> <!-- Subsection !-->
 
@@ -217,6 +239,12 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 - [`Android-x64_FFProfile_Bookmarks_2022.12.27.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.27.html) - 2022 December 27th
 - [`Android-x64_FFProfile_Bookmarks_2022.12.28.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.28.html) - 2022 December 28th
 - [`Android-x64_FFProfile_Bookmarks_2022.12.29.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.29.html) - 2022 December 29th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.30.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.30.html) - 2022 December 30th
+- [`Android-x64_FFProfile_Bookmarks_2022.12.31.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2022.12.31.html) - 2022 December 31st
+- [`Android-x64_FFProfile_Bookmarks_2023.01.01.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.01.html) - 2023 January 1st
+- [`Android-x64_FFProfile_Bookmarks_2023.01.02.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.02.html) - 2023 January 2nd
+- [`Android-x64_FFProfile_Bookmarks_2023.01.03.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.03.html) - 2023 January 3rd
+> **Note** Data from 2023, January 4th and later cannot be uploaded, as it exceeds GitHubs 25 MiB file size limit
 
 </details> <!-- Subsection !-->
 
@@ -250,6 +278,19 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 - [`FFProfile_Androidx64_bookmarks-2022-12-27.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-27.json) - 2022, December 27th
 - [`FFProfile_Androidx64_bookmarks-2022-12-28.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-28.json) - 2022, December 28th
 - [`FFProfile_Androidx64_bookmarks-2022-12-29.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-29.json) - 2022, December 29th
+- [`FFProfile_Androidx64_bookmarks-2022-12-30.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-30.json) - 2022, December 30th
+- [`FFProfile_Androidx64_bookmarks-2022-12-31.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2022-12-31.json) - 2022, December 31st
+- [`FFProfile_Androidx64_bookmarks-2023-01-01.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-01.json) - 2023, January 1st
+- [`FFProfile_Androidx64_bookmarks-2023-01-02.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-02.json) - 2023, January 2nd
+- [`FFProfile_Androidx64_bookmarks-2023-01-03.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-03.json) - 2023, January 3rd
+- [`FFProfile_Androidx64_bookmarks-2023-01-04.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-04.json) - 2023, January 4th
+- [`FFProfile_Androidx64_bookmarks-2023-01-05.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-05.json) - 2023, January 5th
+
+<!--
+- [`FFProfile_Androidx64_bookmarks-2023-01-06.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-06.json) - 2023, January 6th
+- [`FFProfile_Androidx64_bookmarks-2023-01-07.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-07.json) - 2023, January 7th
+- [`FFProfile_Androidx64_bookmarks-2023-01-08.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-08.json) - 2023, January 8th
+!-->
 
 </details> <!-- Subsection !-->
 
@@ -265,9 +306,9 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Friday, December 30th at 6:27 pm PST)`
+**File version:** `5 (2022, Friday, January 6th at 5:18 pm PST)`
 
-**Line count (including blank lines and compiler line):** `379`
+**Line count (including blank lines and compiler line):** `447`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -275,9 +316,9 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-**You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details>
 
@@ -370,6 +411,33 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2023, Friday, January 6th at 5:18 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** It took so long to get to this `README` file that I was considering holding off until next Sunday (or later)
+
+> Changes:
+
+- [x] Updated the `Known backup dates` section
+- [x] Updated the `Planned backup dates` section
+- [x] Updated the `Full tours` section
+- [x] Updated the `Planned tours` section
+- [x] Updated the `Profile wipes` section
+- - [x] Added the `2023 January 5th profile wipe` subsection
+- [x] Updated the `Bookmark backups` section
+- - [x] Updated the `HTML` subsection
+- - [x] Updated the `JSON` subsection
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
