@@ -158,9 +158,9 @@ I have made 8 full tour videos, as of 2023, Friday, January 6th. They include:
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this sub-section</b></p></summary>
 
-I plan to make a tour video the same day as each profile backup. The next one is planned for 2022, December 25th.
+I plan to make a tour video the same day as each profile backup. Tours have been temporarily suspended, and the next one will be created after the creation of the last current planned repository for this project.
 
-The followig tour videos are planned:
+The following tour videos are planned:
 
 1. [`Full tour 2023, January 8th`](#Full-tours)
 
@@ -244,7 +244,27 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 - [`Android-x64_FFProfile_Bookmarks_2023.01.01.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.01.html) - 2023 January 1st
 - [`Android-x64_FFProfile_Bookmarks_2023.01.02.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.02.html) - 2023 January 2nd
 - [`Android-x64_FFProfile_Bookmarks_2023.01.03.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.03.html) - 2023 January 3rd
-> **Note** Data from 2023, January 4th and later cannot be uploaded, as it exceeds GitHubs 25 MiB file size limit
+
+> **Note** Data from 2023, January 4th  cannot be uploaded, as it exceeds GitHubs 25 MiB file size limit
+
+> **Note** Data from 2023, January 5th  cannot be uploaded, as it exceeds GitHubs 25 MiB file size limit
+
+> **Note** Data from 2023, January 6th  cannot be uploaded, as it exceeds GitHubs 25 MiB file size limit
+
+> **Note** Data from 2023, January 7th  cannot be uploaded, as it exceeds GitHubs 25 MiB file size limit
+
+- [`Android-x64_FFProfile_Bookmarks_2023.01.08.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.08.html) - 2023 January 8th (somehow, the file began compressing itself)
+- [`Android-x64_FFProfile_Bookmarks_2023.01.09.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.09.html) - 2023 January 9th
+- [`Android-x64_FFProfile_Bookmarks_2023.01.10.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.10.html) - 2023 January 10th
+- [`Android-x64_FFProfile_Bookmarks_2023.01.11.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.11.html) - 2023 January 11th
+- [`Android-x64_FFProfile_Bookmarks_2023.01.12.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.12.html) - 2023 January 12th
+- [`Android-x64_FFProfile_Bookmarks_2023.01.13.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.13.html) - 2023 January 13th
+- [`Android-x64_FFProfile_Bookmarks_2023.01.14.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.14.html) - 2023 January 14th
+- [`Android-x64_FFProfile_Bookmarks_2023.01.15.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.15.html) - 2023 January 15th
+- [`Android-x64_FFProfile_Bookmarks_2023.01.16.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.16.html) - 2023 January 16th
+- ~~[`Android-x64_FFProfile_Bookmarks_2023.01.17.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.17.html) - 2023 January 17th~~
+- [`Android-x64_FFProfile_Bookmarks_2023.01.17_Actual.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.17_Actual.html) - 2023 January 17th (actual)
+- [`Android-x64_FFProfile_Bookmarks_2023.01.18.html`](/Android-x64_FirefoxProfile/Bookmarks/HTML/Android-x64_FFProfile_Bookmarks_2023.01.18.html) - 2023 January 18th
 
 </details> <!-- Subsection !-->
 
@@ -285,6 +305,20 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 - [`FFProfile_Androidx64_bookmarks-2023-01-03.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-03.json) - 2023, January 3rd
 - [`FFProfile_Androidx64_bookmarks-2023-01-04.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-04.json) - 2023, January 4th
 - [`FFProfile_Androidx64_bookmarks-2023-01-05.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-05.json) - 2023, January 5th
+- [`FFProfile_Androidx64_bookmarks-2023-01-06.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-06.json) - 2023, January 6th
+- [`FFProfile_Androidx64_bookmarks-2023-01-07.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-07.json) - 2023, January 7th
+- [`FFProfile_Androidx64_bookmarks-2023-01-08.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-08.json) - 2023, January 8th
+- [`FFProfile_Androidx64_bookmarks-2023-01-09.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-09.json) - 2023, January 9th
+- [`FFProfile_Androidx64_bookmarks-2023-01-10.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-10.json) - 2023, January 10th
+- [`FFProfile_Androidx64_bookmarks-2023-01-11.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-11.json) - 2023, January 11th
+- [`FFProfile_Androidx64_bookmarks-2023-01-12.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-12.json) - 2023, January 12th
+- [`FFProfile_Androidx64_bookmarks-2023-01-13.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-13.json) - 2023, January 13th
+- [`FFProfile_Androidx64_bookmarks-2023-01-14.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-14.json) - 2023, January 14th
+- [`FFProfile_Androidx64_bookmarks-2023-01-15.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-15.json) - 2023, January 15th
+- [`FFProfile_Androidx64_bookmarks-2023-01-16.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-16.json) - 2023, January 16th
+- ~~[`FFProfile_Androidx64_bookmarks-2023-01-17.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-17.json) - 2023, January 17th~~
+- [`FFProfile_Androidx64_bookmarks-2023-01-17_Actual.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-17_Actual.json) - 2023, January 17th (actual)
+- [`FFProfile_Androidx64_bookmarks-2023-01-18.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-18.json) - 2023, January 18th
 
 <!--
 - [`FFProfile_Androidx64_bookmarks-2023-01-06.json`](/Android-x64_FirefoxProfile/Bookmarks/JSON/FFProfile_Androidx64_bookmarks-2023-01-06.json) - 2023, January 6th
@@ -306,9 +340,9 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Friday, January 6th at 5:18 pm PST)`
+**File version:** `6 (2023, Thursday, January 19th at 5:39 pm PST)`
 
-**Line count (including blank lines and compiler line):** `447`
+**Line count (including blank lines and compiler line):** `503`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -418,7 +452,7 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** It took so long to get to this `README` file that I was considering holding off until next Sunday (or later)
+> **Note** _It took so long to get to this `README` file that I was considering holding off until next Sunday (or later)_
 
 > Changes:
 
@@ -438,6 +472,28 @@ Bookmark backups have been almost daily since 2022 December 2nd. Here is a listi
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2023, Thursday, January 19th at 5:39 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A couple weekly events were recently skipped._
+
+> Changes:
+
+- [x] Updated the `Planned tours` section
+- [x] Updated the `Bookmark backups` section
+- - [x] Updated the `HTML` subsection, adding data from 2023 January 4th to 2023 January 18th
+- - [x] Updated the `JSON` subsection, adding data from 2023 January 6th to 2023 January 18th
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
